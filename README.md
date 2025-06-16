@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ Ennemies Defender
 
 A 2D arcade-style shooter game built with **Pygame**, where the player controls a plane to defend against incoming viruses and avoid falling stones. Collect points, level up, and survive as long as possible!
@@ -47,3 +48,6 @@ A 2D arcade-style shooter game built with **Pygame**, where the player controls 
 
 ```bash
 pip install pygame
+=======
+# Enemies-Defender
+>>>>>>> da1c843606c4b806e19364a5b8fd3a7722f2d446
